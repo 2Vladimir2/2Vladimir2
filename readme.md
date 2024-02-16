@@ -4,7 +4,6 @@
 # Работую (не в сфере программипрвания), учусь 
 # заинтересован во многом 
 # Языки программирования которые я знаю 
-# java, php, python, c++, c, (html,css,javascript, 
-# (html,css,javascript) 
+# пока не какого, только знакомлюсь 
 # php
 # по почте gmail.com nadulisneakvladimir@gmail.com
